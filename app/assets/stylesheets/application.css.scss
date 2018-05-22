@@ -1,2 +1,24 @@
 // Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "bootstrap";
+
+* {
+	font-family: 'Raleway', sans-serif;
+}
+
+@font-face {
+    font-family: Slim-Joe;
+    src: url(Slim_Joe.otf);
+}
+
+@font-face {
+    font-family: Big-John;
+    src: url(BIG_JOHN.otf);
+}
+
+.slimjoe {
+	font-family: Slim-Joe
+}
+
+.bigjohn {
+	font-family: Big-John
+}
