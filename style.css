@@ -16,7 +16,7 @@ body {
 	background-size: cover;
 }
 .container {
-	padding: 70px 0;
+	padding: 8em;
 	background-color: rgba(0, 0, 0, 0.4);
 	position: absolute;
 	top: 0;
@@ -25,7 +25,7 @@ body {
 	height: 100%;
 }
 .content {
-	padding: 70px 0;
+	padding: ;
 	text-align: center;
 }
 .header .info {
