@@ -2,6 +2,9 @@ a {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
 a:hover {color:#595959;}  /* mouse over link */
 a:active {color:white;}  /* selected link */
+* {
+	box-sizing: border-box;
+}
 body {
 	font-family: 'Raleway', sans-serif;
 	font-size: 30px;
