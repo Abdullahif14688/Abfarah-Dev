@@ -4,7 +4,5 @@
 
 layout: home
 ---
-
-# Hi, I'm Abdul. I'm a software engineering student at the University of Minnesota.
 > Site is Currently under maintainence and should be coming soon.
 ![Site under Construction](images/coming-soon-design_1132-70.jpg)
