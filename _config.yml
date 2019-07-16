@@ -1,19 +1,22 @@
+# Site settings
 title: Abdul Farah
-email: Abdul.n.farah@gmail.com
-description: >-
-baseurl: ""
-url: "abfarah.com"
+description: Abfarah.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "abfarah.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Abdul Farah
+user_description: I'm a Software Engineering student at the University of Minnesota. I love working on challanging projects and learning something new. I'm currently a software engineer intern at Target working as full stack engineer using technologies like react, angular, spring boot, and many other technologies. For more info please reach out to me at abdul.n.farah@gmail.com
+user_title: Software Engineer
+email: abdul.n.farah@gmail.com
 twitter_username: abfarahh
 github_username:  abfarah
 instagram_username: abfarahh
-google_analytics: UA-143619358-1
-sass:
-  sass_dir: _sass
-include: ['_pages']
+
+# Google-analytics
+google-analytics:
+  id: "UA-143619358-1"
+
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+
+exclude: ['package.json', 'src' , 'node_modules']
