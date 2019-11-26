@@ -2,11 +2,11 @@
 title: Abdul Farah
 description: Abfarah.com
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "abfarah.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "abfarah.com" 
 
 # User settings
 username: Abdul Farah
-user_description: I’m currently a Computer Science student at the University of Minnesota. I love working on challenging projects and learning new things. I’m currently a software engineering intern at Target working as a full stack engineer using technologies like react, angular, spring boot, etc. Shoot me an email at abdul.n.farah@gmail.com to get in touch.
+user_description: I’m currently a Computer Science student at the University of Minnesota. I love working on challenging projects and learning new things. I was previously a software engineering intern at Target working as a full stack engineer using technologies like react, angular, spring boot, etc. Shoot me an email at abdul.n.farah@gmail.com to get in touch.
 user_title: Software Engineer
 email: abdul.n.farah@gmail.com
 twitter_username: abfarahh
